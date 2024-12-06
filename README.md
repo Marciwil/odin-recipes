@@ -1,0 +1,1 @@
+This current Odin Procject focuses on using creating a basic recipe website.
